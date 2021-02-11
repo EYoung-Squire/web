@@ -2,10 +2,14 @@ body {
   background-color: paleturquoise;  
   
   color: #ee82ee;
+  
+  text-align: center;
 }
 
 h1 {
   font-family: "Lucida Handwriting", Brush Script MT;
+  
+  font-size: 20px;
 }
 
 
