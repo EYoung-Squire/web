@@ -16,6 +16,11 @@ ul {
   font-size: 22px;
 }
 
+li {
+  border: 2px solid blue;
+  padding: .5em;
+}
+
 
 
 
