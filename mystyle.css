@@ -16,6 +16,10 @@ ul {
   font-size: 22px;
 }
 
+table, th, td {
+  border: 1px solid;
+  color: #ee82ee;
+}
 
 
 
